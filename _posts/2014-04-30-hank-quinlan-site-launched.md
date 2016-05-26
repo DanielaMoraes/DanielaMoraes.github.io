@@ -1,7 +1,14 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title:  "Welcome to Jekyll!"
+date:   2015-12-18 21:45:10 +0800
+tags:
+  - Mailbox
+  - Theme
+categories:
+  - Theme
+  - Jekyll Writer
 ---
+It's a long time question for me, what default theme of Jekyll Writer looks like? Days ago, Mailbox had gone. Today I copied the design of [Mailbox official blog](https://blogs.dropbox.com/mailbox/) for our default theme to remember this great app. Thanks Mailbox team.
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This theme is published under MIT License, I hope you may like it =)
