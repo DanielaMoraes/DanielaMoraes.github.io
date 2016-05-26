@@ -17,7 +17,7 @@ permalink: /:year/:month/:day/:title/
 paginate: 6
 paginate_path: "/page/:num/"
 github_username:  DanielaMoraes
-gems: [jekyll-paginate]
+gems: [DanielaMoraes-paginate]
 
 # Build settings
 markdown: kramdown
