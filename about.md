@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[Jekyll Writer](http://www.jekyllwriter.com) is a Jekyll blog site writer. You may download Jekyll Writer for Windows, OS X and Linux from our [official website](http://www.jekyllwriter.com).
+[IIT robotics](http://danielamoraes.github.io) is a educational blog which will constantly post the updates from Daniela Moraes architecture robotic`s project from the discipline of Professor Brett Balogh.
