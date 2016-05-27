@@ -9,9 +9,8 @@
 title: IIT ROBOTICS
 author: Daniela Moraes
 description: > # this means to ignore newlines until "baseurl:"
-  This theme is disigned based on Mailbox Blog, and licensed under MIT.
-  This theme is also default theme for new site created by Jekyll Writer.
-baseurl: "" # the subpath of your site, e.g. /blog
+  We will look at robots as prostheses that augment the built environment, adding human elements of whimsy, personality, behavior, mobility, conflict, agency and freedom through technological proxies to otherwise static structures or empty spaces.
+  baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danielamoraes.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 paginate: 6
