@@ -10,7 +10,8 @@ title: IIT ROBOTICS
 author: Daniela Moraes
 description: > # this means to ignore newlines until "baseurl:"
   We will look at robots as prostheses that augment the built environment, adding human elements of whimsy, personality, behavior, mobility, conflict, agency and freedom through technological proxies to otherwise static structures or empty spaces.
-  baseurl: "" # the subpath of your site, e.g. /blog
+ 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danielamoraes.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 paginate: 6
