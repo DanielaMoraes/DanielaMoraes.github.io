@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Test 2 gif"
+date:   2016-05-27 15:33:10 +0800
+---
+This is gif test
+<img src="gifs_18.gif" alt="http://cdn.acidcow.com/pics/20130204/gifs_18.gif" />
